@@ -8,7 +8,7 @@
   }
   
   .pagination .page-item.active .page-link {
-    color: #3b4855 !important;
-    background-color: #ffffff; /* Cambia esto al color de fondo que prefieras */
-    border-color: #3b4855; /* Cambia esto al color del borde que prefieras */
+    color: white !important;
+    background-color: #007bff; /* Cambia esto al color de fondo que prefieras */
+    border-color: #007bff; /* Cambia esto al color del borde que prefieras */
   }
