@@ -1,0 +1,14 @@
+/* Pagination.css */
+.pagination .page-link {
+    color: white !important;
+  }
+  
+  .pagination .page-link:hover {
+    color: white !important;
+  }
+  
+  .pagination .page-item.active .page-link {
+    color: #3b4855 !important;
+    background-color: #ffffff; /* Cambia esto al color de fondo que prefieras */
+    border-color: #3b4855; /* Cambia esto al color del borde que prefieras */
+  }

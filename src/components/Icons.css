@@ -1,0 +1,12 @@
+.icon-button {
+  width: 50px;
+  height: 50px;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  border-width: 2px; /* Make the border slightly thicker for better visibility */
+}
+
+.icon-button i {
+  font-size: 24px; /* Adjust font size as needed */
+}
